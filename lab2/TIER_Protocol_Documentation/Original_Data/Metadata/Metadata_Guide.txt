@@ -1,0 +1,47 @@
+Earthquake data
+
+The original earthquake_data.csv file can be obtained at this address: https://github.com/fivethirtyeight/data/tree/master/san-andreas
+
+This file contains answers of US citizens about their fear of earthquakes and precautions they took. The file contains following variables and possible answers:
+
+Variable: In general, how worried are you about earthquakes?
+Answers: ['Not at all worried' 'Somewhat worried' 'Not so worried' 'Very worried'
+ 'Extremely worried']
+
+Variable: How worried are you about the Big One, a massive, catastrophic earthquake?
+Answers: ['Not so worried' 'Very worried' 'Somewhat worried' 'Not at all worried'
+ 'Extremely worried']
+
+Variable: Do you think the "Big One" will occur in your lifetime?
+Answers: ['No' 'Yes']
+
+Variable: Have you ever experienced an earthquake?
+Answers: ['Yes, one or more minor ones' 'Yes, one or more major ones' 'No' nan]
+
+Variable: Have you or anyone in your household taken any precautions for an earthquake (packed an earthquake survival kit, prepared an evacuation plan, etc.)?
+Answers: ['No' 'Yes' nan]
+
+Variable: How familiar are you with the San Andreas Fault line?
+Answers: ['Somewhat familiar' 'Not at all familiar' 'Very familiar' nan
+ 'Not so familiar' 'Extremely familiar']
+
+Variable: How familiar are you with the Yellowstone Supervolcano?
+Answers: ['Not so familiar' 'Not at all familiar' 'Somewhat familiar'
+ 'Extremely familiar' nan 'Very familiar']
+
+Variable: Age
+Answers: ['18 - 29' nan '30 - 44' '45 - 59' '60']
+
+Variable: What is your gender?
+Answers: ['Male' nan 'Female']
+
+Variable: How much total combined money did all members of your HOUSEHOLD earn last year?
+Answers: ['Prefer not to answer' '$75,000 to $99,999' '$10,000 to $24,999'
+ '$25,000 to $49,999' '$200,000 and up' nan '$50,000 to $74,999'
+ '$0 to $9,999' '$100,000 to $124,999' '$175,000 to $199,999'
+ '$125,000 to $149,999' '$150,000 to $174,999']
+
+Variable: US Region
+Answers: ['New England' 'East North Central' 'Pacific' 'West South Central'
+ 'Middle Atlantic' nan 'South Atlantic' 'West North Central'
+ 'East South Central' 'Mountain']
