@@ -1,0 +1,94 @@
+cleaned_data.csv appendix
+
+Variable: Worried earthquake
+Name in original dataset: In general, how worried are you about earthquakes?
+Total count: 978
+Total count in original file: 1013
+Frequency of answers: {'Not at all worried': 351, 'Not so worried': 320, 'Somewhat worried': 212, 'Very worried': 48, 'Extremely worried': 47}
+
+Variable: Worried big one
+Name in original dataset: How worried are you about the Big One, a massive, catastrophic earthquake?
+Total count: 978
+Total count in original file: 1013
+Frequency of answers: {'Not at all worried': 329, 'Not so worried': 303, 'Somewhat worried': 214, 'Very worried': 71, 'Extremely worried': 61}
+
+Variable: Big one in lifetime
+Name in original dataset: Do you think the "Big One" will occur in your lifetime?
+Total count: 978
+Total count in original file: 1013
+Frequency of answers: {'No': 560, 'Yes': 418}
+
+Variable: Experienced earthquake
+Name in original dataset: Have you ever experienced an earthquake?
+Total count: 978
+Total count in original file: 1006
+Frequency of answers: {'Yes, one or more minor ones': 471, 'No': 351, 'Yes, one or more major ones': 156}
+
+Variable: Precautions taken
+Name in original dataset: Have you or anyone in your household taken any precautions for an earthquake (packed an earthquake survival kit, prepared an evacuation plan, etc.)?
+Total count: 978
+Total count in original file: 1006
+Frequency of answers: {'No': 766, 'Yes': 212}
+
+Variable: San Andreas Fault line
+Name in original dataset: How familiar are you with the San Andreas Fault line?
+Total count: 978
+Total count in original file: 1001
+Frequency of answers: {'Somewhat familiar': 392, 'Very familiar': 247, 'Extremely familiar': 132, 'Not so familiar': 106, 'Not at all familiar': 101}
+
+Variable: Yellowstone Supervolcano
+Name in original dataset: How familiar are you with the Yellowstone Supervolcano?
+Total count: 978
+Total count in original file: 1001
+Frequency of answers: {'Somewhat familiar': 273, 'Not at all familiar': 262, 'Not so familiar': 211, 'Very familiar': 139, 'Extremely familiar': 93}
+
+Variable: Age
+Name in original dataset: Age
+Total count: 978
+Total count in original file: 1001
+Frequency of answers: {'45 - 59': 270, '60': 251, '30 - 44': 249, '18 - 29': 208}
+
+Variable: Gender
+Name in original dataset: What is your gender?
+Total count: 978
+Total count in original file: 1001
+Frequency of answers: {'Female': 513, 'Male': 465}
+
+Variable: Household income
+Name in original dataset: How much total combined money did all members of your HOUSEHOLD earn last year?
+Total count: 978
+Total count in original file: 1001
+Frequency of answers: {'$50,000 to $74,999': 174, '$25,000 to $49,999': 158, 'Prefer not to answer': 154, '$75,000 to $99,999': 133, '$10,000 to $24,999': 83, '$100,000 to $124,999': 74, '$0 to $9,999': 63, '$200,000 and up': 50, '$125,000 to $149,999': 44, '$150,000 to $174,999': 33, '$175,000 to $199,999': 12}
+
+Variable: US Region
+Name in original dataset: US Region
+Total count: 978
+Total count in original file: 978
+Frequency of answers: {'Pacific': 206, 'South Atlantic': 155, 'East North Central': 140, 'Middle Atlantic': 137, 'West South Central': 99, 'West North Central': 71, 'Mountain': 67, 'New England': 63, 'East South Central': 40}
+
+
+
+====================================================================================================
+
+
+
+sub_table.csv appendix
+
+Variable:Big one in lifetime
+Name in original dataset: Do you think the "Big One" will occur in your lifetime?
+Total count: 1001
+Total count in original file: 1013
+Frequency of answers: {'No': 571, 'Yes': 430}
+
+Variable:Age
+Name in original dataset: Age
+Total count: 1001
+Total count in original file: 1001
+Frequency of answers: {'45 - 59': 275, '30 - 44': 257, '60': 254, '18 - 29': 215}
+
+Variable:Gender
+Name in original dataset: What is your gender?
+Total count: 1001
+Total count in original file: 1001
+Frequency of answers: {'Female': 521, 'Male': 480}
+
