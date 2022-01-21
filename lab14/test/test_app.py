@@ -39,6 +39,6 @@ testdata3 = [
     ]
 
 @pytest.mark.parametrize('sample, expected', testdata3)
-def test_text_contain_word(sample, expected):
+def test_bubble_sort(sample, expected):
 
     assert bubble_sort(sample) == expected
